@@ -1,0 +1,35 @@
+# Gradle build directory
+/build/
+
+# IntelliJ IDEA files
+.idea/
+
+# Gradle wrapper
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
+
+# Compiled bytecode
+/classes/
+/bin/
+
+# Gradle temporary files
+/.gradle/
+
+# Caches
+/.idea_caches/
+
+# Project-specific settings
+/*.iml
+*.ipr
+*.iws
+
+# Local configuration file (for example, application.properties)
+/application-local.properties
+
+# Logs
+/log/
+*.log
+
+# IntelliJ IDEA code style settings
+/.idea/codeStyles/
+*.xml
