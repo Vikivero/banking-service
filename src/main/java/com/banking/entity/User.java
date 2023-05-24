@@ -57,13 +57,17 @@ public class User {
         this.accountBalance = accountBalance;
     }
 
+    //przez alt+ insert, ctrl+o to nie autogeneracja
     @Override
-    public boolean equals(Object obj) {
-        return super.equals(obj);
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        User user = (User) o;
+        return pesel == user.pesel && accountNumber == user.accountNumber && Double.compare(user.accountBalance, accountBalance) == 0 && Objects.equals(name, user.name) && Objects.equals(surname, user.surname);
     }
 
     @Override
     public int hashCode() {
-        return super.hashCode();
+        return Objects.hash(name, surname, pesel, accountNumber, accountBalance);
     }
 }
