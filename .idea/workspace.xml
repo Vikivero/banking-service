@@ -24,13 +24,11 @@
   <component name="ChangeListManager">
     <list default="true" id="ad4bed14-bf92-455b-8b30-34f0eeefe018" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-
       <change beforePath="$PROJECT_DIR$/src/main/java/com/banking/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/banking/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/banking/entity/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/banking/entity/Account.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/banking/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/banking/entity/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/banking/service/DataAuthenticationStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/banking/service/DataAuthenticationStorage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/banking/service/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/banking/service/Validator.java" afterDir="false" />
-
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684860594805</updated>
       <workItem from="1684860598325" duration="1124000" />
-      <workItem from="1684923956404" duration="4195000" />
+      <workItem from="1684923956404" duration="6612000" />
     </task>
     <servers />
   </component>
