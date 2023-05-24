@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ad4bed14-bf92-455b-8b30-34f0eeefe018" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/banking/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/banking/entity/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +32,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,6 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684860594805</updated>
       <workItem from="1684860598325" duration="1124000" />
+      <workItem from="1684923956404" duration="4195000" />
     </task>
     <servers />
   </component>
@@ -79,8 +88,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="130" y="28" key="#com.intellij.ide.util.MemberChooser" timestamp="1684926586443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="130" y="28" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1684926586443" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1684860618164">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -89,5 +103,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1684860627643" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1684927057496">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1684927057496" />
   </component>
 </project>
