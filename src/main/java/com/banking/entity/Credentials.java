@@ -1,14 +1,15 @@
 package com.banking.entity;
 
+import java.io.Serializable;
 import java.util.Objects;
 
-public class Account {
+public class Credentials implements Serializable {
 
     private long accountNumber;
     private String password;
 
     //pojo - plain old java object
-    public Account(long accountNumber, String password) {
+    public Credentials(long accountNumber, String password) {
         this.accountNumber = accountNumber;
         this.password = password;
     }
@@ -33,8 +34,8 @@ public class Account {
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        Account account = (Account) o;
-        return accountNumber == account.accountNumber && Objects.equals(password, account.password);
+        Credentials credentials = (Credentials) o;
+        return accountNumber == credentials.accountNumber && Objects.equals(password, credentials.password);
     }
 
     @Override
